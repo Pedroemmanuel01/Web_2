@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.pedro_emmanuel.buscadormobile"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1ce5f73f-caf9-405c-bb52-0ba575230738"
+      }
+    },
+    "owner": "pedro_emmanuel"
   }
 }
